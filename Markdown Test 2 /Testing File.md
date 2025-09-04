@@ -23,3 +23,7 @@ Firstly, you’ll want to head here, and install the latest version of Blender a
 ![Screenshot of Blender Download Screen](https://github.com/Crescent-Dawn/worlds-documentation/blob/main/Markdown%20Test%202%20/markdownassets/images/Screenshot%202025-09-04%20143132.png)
 
 Once downloaded, find the installer file, open it, and install it like you would any other software! 
+
+While that's installing, now is also a good time to grab the Horizon Worlds Desktop Editor, and install it in a similar fashion. I've included a screenshot below for reference:
+
+
