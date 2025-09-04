@@ -18,6 +18,8 @@ I’ll take over phase 1, and then pass on the mic to my partner in crime, Simul
 
 Much like a real life blender, Blender (the software) gives the users a lot of creative freedom on what they can chop up! In this tutorial specifically, we’ll be making (Insert thing that we decide on here), and so we’ll do a mostly normal Blender install, with some slight tweaks here and there to make things easier for new users. 
 
-Firstly, you’ll want to head here, and install the latest version of Blender available, or find the specific version you might want to use. (as of writing this, Blender is currently at 4.5.2 LTS)
+Firstly, you’ll want to head here, and install the latest version of Blender available, or find the specific version you might want to use. (as of writing this, Blender is currently at 4.5.2 LTS) I've included a screencap of what the download screen should look like below:
+
+![Screenshot of Blender Download Screen](https://github.com/Crescent-Dawn/worlds-documentation/blob/main/Markdown%20Test%202%20/markdownassets/images/Screenshot%202025-09-04%20143132.png)
 
 Once downloaded, find the installer file, open it, and install it like you would any other software! 
