@@ -8,7 +8,7 @@ This tutorial will be split up into seven – that’s right seven phases! And i
 
 This tutorial will be split into 7 phases, each phase denoted by a various color to help with Identification! If you’re already familiar with a specific part of the tutorial, these phases will allow you to skip ahead to the parts that you might be struggling with. If you’re mostly familiar with the specifics, but need a refresher on the overall process, there will also be a recap flowchart attached to phase 7 that will allow users to rapidly run through the tutorial as well. With the formalities out of the way, let’s get started!
 
-### Phase 1 - The Set-up (Freeze!! *pew* *pew*) 
+### Phase 1 - The Set-up (Freeze dirtbag!!! *pew* *pew*) 
 
 For phase one of this tutorial, we will split it into two sections: Installing Blender, and Installing Meta Horizons Desktop World Editor
 
