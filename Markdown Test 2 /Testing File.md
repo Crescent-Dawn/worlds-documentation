@@ -1,16 +1,16 @@
-Hello everyone, and welcome to our tutorial! Today, Simulations and I will be showcasing how to create assets in blender, and then how to import and utilize them in Meta Horizon’s very own Desktop World Editor!!
+# Hello everyone, and welcome to our tutorial! Today, Simulations and I will be showcasing how to create assets in blender, and then how to import and utilize them in Meta Horizon’s very own Desktop World Editor!!
 
-# 1st Introduction Thingy
+## 1st Introduction Thingy
 
 This tutorial will be split up into seven – that’s right seven phases! And if you order now we’ll throw in an extra feature never before seen, VIDEO!! (wow) Just call this number: 1-800-1111-111 and ask for the secrets of the universe, and our company will ship them right to you! Don’t wait, don’t delay, call now!
 
-# 2nd Introduction Thingy
+## 2nd Introduction Thingy
 
 This tutorial will be split into 7 phases, each phase denoted by a various color to help with Identification! If you’re already familiar with a specific part of the tutorial, these phases will allow you to skip ahead to the parts that you might be struggling with. If you’re mostly familiar with the specifics, but need a refresher on the overall process, there will also be a recap flowchart attached to phase 7 that will allow users to rapidly run through the tutorial as well. With the formalities out of the way, let’s get started!
 
-Phase 1 - The Set-up (Freeze!! *pew* *pew*)
+### Phase 1 - The Set-up (Freeze!! *pew* *pew*)
 
-	For phase one of this tutorial, we will split it into two sections: Installing Blender, and Installing Meta Horizons Desktop World Editor
+For phase one of this tutorial, we will split it into two sections: Installing Blender, and Installing Meta Horizons Desktop World Editor
 
 I’ll take over phase 1, and then pass on the mic to my partner in crime, Simulations, so she can guide you into installing MHDWE!
 
